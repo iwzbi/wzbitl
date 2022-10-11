@@ -3,8 +3,6 @@
 - 👀 I’m interested in machine learning system
 - 🌱 I’m currently learning tvm...
 - 💞️ I’m looking to collaborate on deep learning compilation
-- 📫 How to reach me wzbi@zju.edu.cn
-
 
 </pre> 
 
@@ -26,7 +24,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:wzbi@zju.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-wzbi@zju.edu.cn-blue?style=flat-square&logo=gmail"></a>
-
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/wzbitl/count.svg" />
